@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+- Problem Solving
+- Camping in the Great Outdoors
+- Tech & Trinkets
